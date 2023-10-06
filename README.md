@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayebazibwekenneth  
-- 👀 I’m interested in mobile development 
+- 👀 I’m interested in mobile App development 
 - 🌱 I’m currently learning flutter and dart programing language.
 - 💞️ I’m looking to collaborate on any projects at hand
 - How to reach me ayebazibwekenneth33@gmail.com
